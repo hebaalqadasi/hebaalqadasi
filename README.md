@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner2.png" width="100%" alt="Heba Al-Qadasi GitHub Banner" />
+<!-- <img src="assets/github-banner2.png" width="100%" alt="Heba Al-Qadasi GitHub Banner" /> -->
 
 # Hi, I'm Heba Al-Qadasi 👋
 
